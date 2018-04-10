@@ -1,2 +1,0 @@
-# Soundbox
-A simple Soundbox
