@@ -1,2 +1,2 @@
 # Soundbox
-A simple Soudbox
+A simple Soundbox
