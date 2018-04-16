@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\NO-ASCII\\Android\\NacfaireSoundbox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "C:\\Users\\erikh\\AndroidStudioProjects\\SoundBoxV22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Romain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\83ec293720b2cd07374401147388d9a7\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\erikh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ea1937576f19317fd633fee8196c1ff2\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

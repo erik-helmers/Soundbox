@@ -1,154 +1,106 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e0513b7a5d0227ab375ef05ab0ffc0\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ea1937576f19317fd633fee8196c1ff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8bfe583800a6e0ae2c375f27320a664a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\afbd5e8fd8e22209c6706fda7247ad58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f28b5640a482d41759d0fdd688f7e664\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bffa4eb976ee5de2f0e9181cc1cb9b37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\798e46d8839685037dfc76e79a14e337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aca4d6c21b80bed19be9fe3c39cc9b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c09016b5f963d0af6cc2c51488faa30b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6db4e477d5b79c77c034a3559431738b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90854bafc752dfefd9d57d683b897cbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e369e4438a4aa4373b388729103df828\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d68f6390cba7a6231ca5c56a8150ba1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc7f7ddcabd166ac32120fbbfed6c28b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:5:5-21:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e0513b7a5d0227ab375ef05ab0ffc0\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e0513b7a5d0227ab375ef05ab0ffc0\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8bfe583800a6e0ae2c375f27320a664a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8bfe583800a6e0ae2c375f27320a664a\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:7:9-38
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:11:9-65
-activity#fr.elegary.nacfairesoundbox.Nacfaire
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:11:9-40
+activity#tk.vousnavezpaslesbases.soundboxv2.MainActivity
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:12:19-43
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:13:13-17:29
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:16:27-74
-activity#fr.elegary.nacfairesoundbox.Settings
-ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:19:9-20:20
-	android:name
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml:19:19-43
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e0513b7a5d0227ab375ef05ab0ffc0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e0513b7a5d0227ab375ef05ab0ffc0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:23:9-75
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ea1937576f19317fd633fee8196c1ff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ea1937576f19317fd633fee8196c1ff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8bfe583800a6e0ae2c375f27320a664a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8bfe583800a6e0ae2c375f27320a664a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\afbd5e8fd8e22209c6706fda7247ad58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\afbd5e8fd8e22209c6706fda7247ad58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f28b5640a482d41759d0fdd688f7e664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f28b5640a482d41759d0fdd688f7e664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bffa4eb976ee5de2f0e9181cc1cb9b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bffa4eb976ee5de2f0e9181cc1cb9b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\798e46d8839685037dfc76e79a14e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\798e46d8839685037dfc76e79a14e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aca4d6c21b80bed19be9fe3c39cc9b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aca4d6c21b80bed19be9fe3c39cc9b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c09016b5f963d0af6cc2c51488faa30b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c09016b5f963d0af6cc2c51488faa30b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6db4e477d5b79c77c034a3559431738b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6db4e477d5b79c77c034a3559431738b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90854bafc752dfefd9d57d683b897cbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90854bafc752dfefd9d57d683b897cbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e369e4438a4aa4373b388729103df828\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e369e4438a4aa4373b388729103df828\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d68f6390cba7a6231ca5c56a8150ba1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d68f6390cba7a6231ca5c56a8150ba1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc7f7ddcabd166ac32120fbbfed6c28b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\erikh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc7f7ddcabd166ac32120fbbfed6c28b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		ADDED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-		INJECTED from D:\NO-ASCII\Android\NacfaireSoundbox\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\10de6b2f27af8d403f9d42d43ab5f60c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0313529008bb4e42feb48ccfdbc57d1c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b09f4db6d787c0de26aa1024231de871\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64865e933d4776c8f87a8ab458cfab17\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9c46649ae88561db7881bfb02d30386d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:26:13-58
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erikh\AndroidStudioProjects\SoundBoxV22\app\src\main\AndroidManifest.xml

@@ -1,4 +1,0 @@
-#Mon Apr 09 22:12:34 CEST 2018
-base.0=D\:\\NO-ASCII\\Android\\NacfaireSoundbox\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
-path.0=classes.dex
-renamed.0=classes.dex
